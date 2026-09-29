@@ -1,0 +1,1 @@
+{"name":"redline-performance-garage","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"node scripts/serve.mjs","test":"node --test scripts/logic.test.mjs","check":"node --check dist/app.js && node --check dist/logic.js && node --check scripts/refresh-market.mjs","refresh:epa":"node scripts/refresh-epa.mjs","refresh:market":"node scripts/refresh-market.mjs"}}

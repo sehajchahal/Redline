@@ -1,0 +1,347 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-29T02:58:09.450309+00:00",
+  "title": "Design System: Redline",
+  "extensions": {
+    "colorMeta": {
+      "primary": {
+        "role": "primary",
+        "displayName": "Primary",
+        "tonalRamp": [
+          "oklch(15% 0.17585 38.99)",
+          "oklch(26.43% 0.17585 38.99)",
+          "oklch(37.86% 0.17585 38.99)",
+          "oklch(49.29% 0.17585 38.99)",
+          "oklch(60.71% 0.17585 38.99)",
+          "oklch(72.14% 0.17585 38.99)",
+          "oklch(83.57% 0.17585 38.99)",
+          "oklch(95% 0.17585 38.99)"
+        ]
+      },
+      "torque-blue": {
+        "role": "secondary",
+        "displayName": "Torque Blue",
+        "tonalRamp": [
+          "oklch(15% 0.10634 264.86)",
+          "oklch(26.43% 0.10634 264.86)",
+          "oklch(37.86% 0.10634 264.86)",
+          "oklch(49.29% 0.10634 264.86)",
+          "oklch(60.71% 0.10634 264.86)",
+          "oklch(72.14% 0.10634 264.86)",
+          "oklch(83.57% 0.10634 264.86)",
+          "oklch(95% 0.10634 264.86)"
+        ]
+      },
+      "status-green": {
+        "role": "tertiary",
+        "displayName": "Status Green",
+        "tonalRamp": [
+          "oklch(15% 0.05603 154.77)",
+          "oklch(26.43% 0.05603 154.77)",
+          "oklch(37.86% 0.05603 154.77)",
+          "oklch(49.29% 0.05603 154.77)",
+          "oklch(60.71% 0.05603 154.77)",
+          "oklch(72.14% 0.05603 154.77)",
+          "oklch(83.57% 0.05603 154.77)",
+          "oklch(95% 0.05603 154.77)"
+        ]
+      },
+      "background": {
+        "role": "neutral",
+        "displayName": "Background",
+        "tonalRamp": [
+          "oklch(15% 0.00515 248.10)",
+          "oklch(26.43% 0.00515 248.10)",
+          "oklch(37.86% 0.00515 248.10)",
+          "oklch(49.29% 0.00515 248.10)",
+          "oklch(60.71% 0.00515 248.10)",
+          "oklch(72.14% 0.00515 248.10)",
+          "oklch(83.57% 0.00515 248.10)",
+          "oklch(95% 0.00515 248.10)"
+        ]
+      },
+      "sidebar": {
+        "role": "neutral",
+        "displayName": "Sidebar",
+        "tonalRamp": [
+          "oklch(15% 0.00667 258.37)",
+          "oklch(26.43% 0.00667 258.37)",
+          "oklch(37.86% 0.00667 258.37)",
+          "oklch(49.29% 0.00667 258.37)",
+          "oklch(60.71% 0.00667 258.37)",
+          "oklch(72.14% 0.00667 258.37)",
+          "oklch(83.57% 0.00667 258.37)",
+          "oklch(95% 0.00667 258.37)"
+        ]
+      },
+      "panel": {
+        "role": "neutral",
+        "displayName": "Panel",
+        "tonalRamp": [
+          "oklch(15% 0.00733 248.14)",
+          "oklch(26.43% 0.00733 248.14)",
+          "oklch(37.86% 0.00733 248.14)",
+          "oklch(49.29% 0.00733 248.14)",
+          "oklch(60.71% 0.00733 248.14)",
+          "oklch(72.14% 0.00733 248.14)",
+          "oklch(83.57% 0.00733 248.14)",
+          "oklch(95% 0.00733 248.14)"
+        ]
+      },
+      "panel-hover": {
+        "role": "neutral",
+        "displayName": "Panel Hover",
+        "tonalRamp": [
+          "oklch(15% 0.00806 240.17)",
+          "oklch(26.43% 0.00806 240.17)",
+          "oklch(37.86% 0.00806 240.17)",
+          "oklch(49.29% 0.00806 240.17)",
+          "oklch(60.71% 0.00806 240.17)",
+          "oklch(72.14% 0.00806 240.17)",
+          "oklch(83.57% 0.00806 240.17)",
+          "oklch(95% 0.00806 240.17)"
+        ]
+      },
+      "border": {
+        "role": "neutral",
+        "displayName": "Border",
+        "tonalRamp": [
+          "oklch(15% 0.01047 253.98)",
+          "oklch(26.43% 0.01047 253.98)",
+          "oklch(37.86% 0.01047 253.98)",
+          "oklch(49.29% 0.01047 253.98)",
+          "oklch(60.71% 0.01047 253.98)",
+          "oklch(72.14% 0.01047 253.98)",
+          "oklch(83.57% 0.01047 253.98)",
+          "oklch(95% 0.01047 253.98)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.01178 243.71)",
+          "oklch(26.43% 0.01178 243.71)",
+          "oklch(37.86% 0.01178 243.71)",
+          "oklch(49.29% 0.01178 243.71)",
+          "oklch(60.71% 0.01178 243.71)",
+          "oklch(72.14% 0.01178 243.71)",
+          "oklch(83.57% 0.01178 243.71)",
+          "oklch(95% 0.01178 243.71)"
+        ]
+      },
+      "text": {
+        "role": "neutral",
+        "displayName": "Text",
+        "tonalRamp": [
+          "oklch(15% 0.00172 247.84)",
+          "oklch(26.43% 0.00172 247.84)",
+          "oklch(37.86% 0.00172 247.84)",
+          "oklch(49.29% 0.00172 247.84)",
+          "oklch(60.71% 0.00172 247.84)",
+          "oklch(72.14% 0.00172 247.84)",
+          "oklch(83.57% 0.00172 247.84)",
+          "oklch(95% 0.00172 247.84)"
+        ]
+      },
+      "primary-ink": {
+        "role": "primary",
+        "displayName": "Primary Ink",
+        "tonalRamp": [
+          "oklch(15% 0.02539 40.45)",
+          "oklch(26.43% 0.02539 40.45)",
+          "oklch(37.86% 0.02539 40.45)",
+          "oklch(49.29% 0.02539 40.45)",
+          "oklch(60.71% 0.02539 40.45)",
+          "oklch(72.14% 0.02539 40.45)",
+          "oklch(83.57% 0.02539 40.45)",
+          "oklch(95% 0.02539 40.45)"
+        ]
+      },
+      "primary-hover": {
+        "role": "primary",
+        "displayName": "Primary Hover",
+        "tonalRamp": [
+          "oklch(15% 0.13700 42.00)",
+          "oklch(26.43% 0.13700 42.00)",
+          "oklch(37.86% 0.13700 42.00)",
+          "oklch(49.29% 0.13700 42.00)",
+          "oklch(60.71% 0.13700 42.00)",
+          "oklch(72.14% 0.13700 42.00)",
+          "oklch(83.57% 0.13700 42.00)",
+          "oklch(95% 0.13700 42.00)"
+        ]
+      },
+      "selected-nav": {
+        "role": "primary",
+        "displayName": "Selected Nav",
+        "tonalRamp": [
+          "oklch(15% 0.02052 43.75)",
+          "oklch(26.43% 0.02052 43.75)",
+          "oklch(37.86% 0.02052 43.75)",
+          "oklch(49.29% 0.02052 43.75)",
+          "oklch(60.71% 0.02052 43.75)",
+          "oklch(72.14% 0.02052 43.75)",
+          "oklch(83.57% 0.02052 43.75)",
+          "oklch(95% 0.02052 43.75)"
+        ]
+      },
+      "selected-nav-text": {
+        "role": "primary",
+        "displayName": "Selected Nav Text",
+        "tonalRamp": [
+          "oklch(15% 0.12706 38.66)",
+          "oklch(26.43% 0.12706 38.66)",
+          "oklch(37.86% 0.12706 38.66)",
+          "oklch(49.29% 0.12706 38.66)",
+          "oklch(60.71% 0.12706 38.66)",
+          "oklch(72.14% 0.12706 38.66)",
+          "oklch(83.57% 0.12706 38.66)",
+          "oklch(95% 0.12706 38.66)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Car identity",
+        "purpose": "Condensed selected-car name."
+      },
+      "metric": {
+        "displayName": "Performance figures",
+        "purpose": "Key values with tabular numerals."
+      }
+    },
+    "shadows": [
+      {
+        "name": "toast-separation",
+        "value": "0 10px 35px #0006",
+        "purpose": "Fixed bottom feedback only."
+      }
+    ],
+    "motion": [
+      {
+        "name": "toast",
+        "value": "opacity .2s, transform .2s",
+        "purpose": "Transient feedback entrance."
+      },
+      {
+        "name": "view-reveal",
+        "value": ".24s ease-out",
+        "purpose": "View entrance from opacity .7 and translateY(5px)."
+      },
+      {
+        "name": "loader",
+        "value": "1s linear infinite",
+        "purpose": "Loading spinner; all motion disabled by prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-min",
+        "value": "1650px"
+      },
+      {
+        "name": "compact-max",
+        "value": "1200px"
+      },
+      {
+        "name": "stack-max",
+        "value": "950px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "680px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Main car action, using warm orange.",
+      "html": "<button class=\"ds-primary\">Add to comparison</button>",
+      "css": ".ds-primary{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:40px;padding:10px 14px;border-radius:7px;font-size:13px;font-weight:600;cursor:pointer;font-family:'DM Sans',sans-serif;border:0;background:var(--accent,#ff784a);color:#21130e}.ds-primary:hover{background:#ff976e}.ds-primary:focus-visible{outline:2px solid var(--accent,#ff784a);outline-offset:4px;}.ds-primary:disabled{opacity:.5;cursor:not-allowed}"
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "description": "Quiet bordered supporting action.",
+      "html": "<button class=\"ds-secondary\">Refresh API</button>",
+      "css": ".ds-secondary{display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:40px;padding:10px 14px;border-radius:7px;font-size:13px;font-weight:600;cursor:pointer;font-family:'DM Sans',sans-serif;border:1px solid var(--border,#303439);background:var(--panel,#1b1e21);color:#e2e5e7}.ds-secondary:hover{background:var(--panel-hover,#222629)}.ds-secondary:focus-visible{outline:2px solid var(--accent,#ff784a);outline-offset:4px;}.ds-secondary:disabled{opacity:.5;cursor:not-allowed}"
+    },
+    {
+      "name": "Labeled Select",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Native selection with persistent label.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-year\">Model year</label><select id=\"ds-year\"><option>2024</option><option>2023</option><option>2022</option></select></div>",
+      "css": ".ds-field{font-family:'DM Sans',sans-serif;max-width:300px}.ds-field label{display:block;color:var(--muted,#a1a8ae);font-size:14px;margin-bottom:7px}.ds-field select{width:100%;border:1px solid var(--border,#303439);border-radius:7px;padding:11px 24px 11px 12px;background:var(--panel,#1b1e21);color:var(--text,#f2f3f4);min-height:43px;font:14px \"DM Sans\",sans-serif;color-scheme:dark}.ds-field select:focus-visible{outline:2px solid var(--accent,#ff784a);outline-offset:4px;}"
+    },
+    {
+      "name": "Dashboard Navigation",
+      "kind": "nav",
+      "refersTo": "navigation",
+      "description": "Warm selected view beside muted destinations.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Dashboard views\"><button class=\"ds-active\" aria-current=\"page\"><svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"3\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/><rect x=\"14\" y=\"14\" width=\"7\" height=\"7\" rx=\"1\"/></svg>Explore cars</button><button>Compare</button></nav>",
+      "css": ".ds-nav{display:flex;flex-direction:column;gap:6px;max-width:224px;background:var(--sidebar,#17191c);padding:20px}.ds-nav button{font-family:'DM Sans',sans-serif;display:flex;gap:12px;align-items:center;text-align:left;padding:12px 10px;border:0;border-radius:7px;font-size:14px;color:var(--muted,#a1a8ae);background:none;cursor:pointer}.ds-nav button.ds-active{background:#30241f;color:#ff9c7c}.ds-nav button:hover{background:var(--panel-hover,#222629);color:var(--text,#f2f3f4)}.ds-nav button:focus-visible{outline:2px solid var(--accent,#ff784a);outline-offset:4px;}.ds-nav svg{width:18px;height:18px;fill:none;stroke:currentColor;stroke-width:1.7}"
+    },
+    {
+      "name": "Information Tag",
+      "kind": "chip",
+      "refersTo": "tag",
+      "description": "Non-interactive source or illustration label.",
+      "html": "<span class=\"ds-tag\">Illustrative</span><span class=\"ds-tag ds-accent\">Manufacturer reference</span>",
+      "css": ".ds-tag{font-family:'DM Sans',sans-serif;display:inline-block;padding:4px 7px;border:1px solid var(--border,#303439);border-radius:4px;font-size:11px;color:#c9ced2;margin-right:8px}.ds-tag.ds-accent{color:#ff9c7c;border-color:#754532;background:#2c211c}"
+    },
+    {
+      "name": "Data Panel",
+      "kind": "card",
+      "refersTo": "panel",
+      "description": "Flat bordered section with explanatory text.",
+      "html": "<section class=\"ds-panel\"><h2>Performance curves</h2><p>Power delivery across the rev range</p><div class=\"ds-legend\"><span><i></i>Power (hp)</span><span><i class=\"ds-blue\"></i>Torque (lb-ft)</span></div><p class=\"ds-note\">Calculated illustration, not a measured dyno run.</p></section>",
+      "css": ".ds-panel{font-family:'DM Sans',sans-serif;border:1px solid var(--border,#303439);border-radius:var(--radius,12px);background:var(--panel,#1b1e21);padding:23px;color:var(--text,#f2f3f4);max-width:520px}.ds-panel h2{font-size:16px;font-weight:600;letter-spacing:-.02em;margin:0 0 8px}.ds-panel p{color:var(--muted,#a1a8ae);font-size:13px;line-height:1.6;margin:0}.ds-legend{display:flex;gap:18px;flex-wrap:wrap;color:#b5bdc3;font-size:12px;margin-top:18px}.ds-legend span{display:flex;align-items:center;gap:7px}.ds-legend i{width:15px;height:3px;border-radius:2px;background:var(--accent,#ff784a)}.ds-legend .ds-blue{background:var(--blue,#8cacf1)}.ds-panel .ds-note{padding-top:16px;font-size:12px}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Performance Garage",
+    "overview": "The Performance Garage is a conventional dark dashboard: calm charcoal surfaces, clear controls and compact data groups let the car and its figures lead. Warm orange marks action and power; a cooler blue identifies torque. The visual language is practical, dense and restrained.\n\nDM Sans carries navigation and explanatory copy. Barlow Condensed gives car names and headline numbers their automotive character without turning the dashboard into a promotional page. Borders and small tonal steps separate information; source notes and missing-data states remain visible parts of the interface.",
+    "keyCharacteristics": [
+      "Charcoal surfaces with thin structural borders.",
+      "Condensed car names and figures beside neutral UI text.",
+      "Warm power and cool torque series with visible legends.",
+      "Responsive stacks with intentional local scrolling."
+    ],
+    "rules": [
+      {
+        "name": "The Series Identity Rule",
+        "body": "Power stays orange and torque stays blue; preserve their visible text legends.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Use Barlow Condensed for car identity and key figures; keep controls and explanatory copy in DM Sans.",
+        "section": "typography"
+      },
+      {
+        "name": "The Flat Panel Rule",
+        "body": "Keep data panels flat and distinguish them with tone and borders.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do preserve the orange power and blue torque assignments alongside text legends.",
+      "Do keep model, trim and model-year controls close to the selected car.",
+      "Do retain visible keyboard focus, the skip link and reduced-motion behavior.",
+      "Do distinguish calculated illustrations, source claims and unavailable values in visible copy.",
+      "Do allow wide tables and mobile manufacturer navigation to scroll inside their own containers."
+    ],
+    "donts": [
+      "Don't portray calculated curves as measured dyno runs or acceleration telemetry.",
+      "Don't replace missing values with fabricated numbers or hide their explanatory states.",
+      "Don't add decorative elevation to the flat data panels.",
+      "Don't assume the remotely loaded fonts are bundled or available offline."
+    ]
+  }
+}
